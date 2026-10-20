@@ -1,3 +1,7 @@
+**Note: I no longer work on this project.**
+I liked the idea, but not the execution. A chat interface is a better interface for a "factory": it gives you more play with the agents. An app like this one, built on top, is too rigid.
+My preferred solution is [Sage](https://github.com/erickb336/sage).
+
 # Orchestrator
 
 ![Orchestrator: one lead, Claude and Codex agents, every step visible and yours to steer](docs/media/hero.png)
