@@ -1,6 +1,7 @@
-**Note: I no longer work on this project.**
-I liked the idea, but not the execution. A chat interface is a better interface for a "factory": it gives you more play with the agents. An app like this one, built on top, is too rigid.
-My preferred solution is [Sage](https://github.com/erickb336/sage).
+> [!CAUTION]
+> **I no longer work on this project. Use [Sage](https://github.com/erickb336/sage) instead.**
+>
+> I liked the idea, but not the execution. A chat interface is a better interface for a "factory": it gives you more play with the agents. An app like this one, built on top, is too rigid. Sage is my preferred solution. See [#52](https://github.com/erickb336/orchestrator/issues/52).
 
 # Orchestrator
 
